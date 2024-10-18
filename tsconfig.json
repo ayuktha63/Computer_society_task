@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es2017", // or "esnext" for the latest features
+      "lib": ["es2017", "dom"], // Include the necessary libraries
+      "outDir": "./dist", // Output directory
+      "strict": true, // Optional: Enable strict type checking
+      "esModuleInterop": true // Optional: Enable compatibility with CommonJS modules
+    }
+  }
+  
